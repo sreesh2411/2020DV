@@ -1913,6 +1913,7 @@ import dash_table
 # Replace these with your actual DataFrame loading if necessary
 
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div(
     [
