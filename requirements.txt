@@ -1,0 +1,10 @@
+dash==2.14.2
+dash_core_components==2.0.0
+dash_html_components==2.0.0
+dash_table==5.0.0
+matplotlib==3.8.0
+numpy==1.22.3
+pandas==1.4.2
+plotly==5.19.0
+Requests==2.31.0
+scikit_learn==1.2.2
